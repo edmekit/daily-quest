@@ -28,3 +28,23 @@ Make a list of 5 things you’re proud of this month — big or small.
 Try to write with your feet — see if it’s readable.
 Find 3 things that smell nice around you — describe each scent.
 Make a “tiny goal” for tomorrow — write it down and do it.
+Watch 1 short video on Big O notation and write a TL;DR in 3 bullet points.
+Solve 1 easy LeetCode problem (search "easy" tag) — focus on understanding your solution’s time complexity.
+Make a simple Python function that multiplies matrices — just 2D lists, no numpy.
+Install Pandas and load any CSV (even your study timer logs) — try .mean() and .head().
+Write a function that simulates rolling 2 dice 100 times — get the average.
+Use random.choice to make a script that gives you random meal ideas.
+Watch a crash course on recursion — code 1 recursive function (like factorial).
+Write a timer script in Python — it tells you when 25 mins is up.
+Create a daily log file where each time you run it, it adds today’s date to a text file.
+Do 1 SQL tutorial — even if it’s just SELECT and WHERE. (You’ll need this for data stuff).
+Write a function that checks for prime numbers — loop through 1–50.
+Learn what a hash map is, then write your own using a Python dict (baby version).
+Use matplotlib to draw a bar chart of your favorite games’ ratings.
+Make a simple Python quiz game with 3 questions — store the score in a file.
+Write a script that renames files in a folder (practice with os module).
+Code a coin flip simulator that runs 1000 flips — count heads and tails.
+Read what Monte Carlo simulation means (watch a chill explainer) — just know what it is for now.
+Use requests to download a web page’s text and print the first 500 characters.
+Make a countdown timer in Python — input how many seconds and it prints every second.
+Write a function that finds the max of a list manually (no max()).
